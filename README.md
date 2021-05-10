@@ -50,20 +50,17 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 
 ### Other Libraries:
 
-<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1024px-Sympy_logo.svg.png"></kbd>
-<kbd><img height="60" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png"></kbd>
+<kbd><img height="60" src="https://pyviz-dev.github.io/pyviz/assets/matplotlib_wm.png"></kbd>
 <kbd><img height="60" src="https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></kbd>
-<kbd><img height="60" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png"></kbd>
-
-<kbd><img height="60" src="https://networkx.org/_static/networkx_logo.svg"></kbd>
-<kbd><img height="60" src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_logo.png"></kbd>
+<kbd><img height="60" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></kbd>
+<kbd><img height="60" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/networkx_project_page_banner_450x254_0.png?itok=j6hg3bZa"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117680935-48e60680-b1ba-11eb-8afb-283f39bc60a1.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
-<kbd><img height="60" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png"></kbd>
-
-<kbd><img height="60" src="https://www4.lunapic.com/editor/working/161824430054895380?4841502863"></kbd>
-<kbd><img height="60" src="http://blog.scielo.org/en/wp-content/uploads/sites/2/2018/07/osgeo.png"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117680341-bd6c7580-b1b9-11eb-80e8-95e5e11d2cbc.png"></kbd>
+<kbd><img height="60" src="https://svn.osgeo.org/osgeo/marketing/logo/svg/OSGeo_compass_with_acronym.svg"></kbd>
 
 
 ## :chart_with_upwards_trend: My GitHub Stats:
@@ -72,3 +69,5 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
 </p>
+
+![geopandas_logo-removebg-preview]()
