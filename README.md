@@ -50,8 +50,8 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="50" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"></kbd>
 <kbd><img height="50" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
-<kbd><img height="50" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"></kbd>
-<kbd><img height="50" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
+<kbd><img height="50" src="Icons/saga_logo.png"></kbd>
+<kbd><img height="50" src="Icons/ecognition_logo.png"></kbd>
 
 #### Image Processing.
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117692913-2a860800-b1c6-11eb-87b2-8f31aa716b91.png"></kbd>
