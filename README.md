@@ -34,12 +34,12 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
 
 ### Image Processing.
-<kbd><img height="60" src="https://www.pngkey.com/png/detail/95-957460_gimp-logo-transparent-background.png"></kbd>
-<kbd><img height="60" src="https://img.icons8.com/material/452/inkscape.png"></kbd>
+<kbd><img height="60" src="https://www.vhv.rs/dpng/d/415-4158626_gimp-logo-hd-png-download.png"></kbd>
+<kbd><img height="60" src="http://www.userlogos.org/files/logos/jumpordie/inkscape.png"></kbd>
 
 ### Computer-Aided Design.
-<kbd><img height="60" src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg"></kbd>
-<kbd><img height="60" src="https://kilonewton.ru/uploads/blog/crop/SBlU1ABYvQYfZpddmumT.png"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117689118-1e984700-b1c2-11eb-9623-b08d29b13c5b.png"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117689500-7b93fd00-b1c2-11eb-9a5a-cd7315bd2473.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
 
 ## :books: Python Libraries:
@@ -57,7 +57,7 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="55" src="https://pyviz-dev.github.io/pyviz/assets/matplotlib_wm.png"></kbd>
 <kbd><img height="55" src="https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></kbd>
 <kbd><img height="55" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></kbd>
-<kbd><img height="55" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/networkx_project_page_banner_450x254_0.png?itok=j6hg3bZa"></kbd>
+<kbd><img height="55" src="https://pyviz-dev.github.io/pyviz/assets/networkx.png"></kbd>
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680935-48e60680-b1ba-11eb-8afb-283f39bc60a1.png"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
