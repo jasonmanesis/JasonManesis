@@ -14,7 +14,7 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 - 🔭 I’m currently working on ...
 
 
-## Languages:  
+## :tongue: Languages:  
 
 <kbd><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
 <kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
@@ -36,15 +36,15 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://kilonewton.ru/uploads/blog/crop/SBlU1ABYvQYfZpddmumT.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
 
-
-**ML-DL Libraries:**
+## :books: Python Libraries:
+### ML-DL Libraries:
 
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
 <kbd><img height="60" src="https://keras.io/img/logo.png"></kbd>
 <kbd><img height="60" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/scikit-learn-logo.png"></kbd>
 
-**Libraries:**
+### Other Libraries:
 
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1024px-Sympy_logo.svg.png"></kbd>
@@ -62,8 +62,7 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="http://blog.scielo.org/en/wp-content/uploads/sites/2/2018/07/osgeo.png"></kbd>
 
 
-📈 **My GitHub Stats**
-
+## :chart_with_upwards_trend: My GitHub Stats:
 
 <p align="left"> 
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
