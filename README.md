@@ -3,6 +3,10 @@
   <img align="left" alt="Jason's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="mailto:mailtoiasonasman@gmail.com">
+<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
 
 Since 2013 I have been an undergraduate student at School of Rural and Surveying Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
