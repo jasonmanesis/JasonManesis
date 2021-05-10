@@ -11,11 +11,31 @@
 
 Since 2013 I have been an undergraduate student at School of Rural and Surveying Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
 
+- 🔭 I’m currently working on ...
 
-**Languages:**  
 
-<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
-<kbd><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
+## Languages:  
+
+<kbd><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
+<kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
+
+## Software:  
+### Geographic Information Systems.
+<kbd><img height="60" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"></kbd>
+<kbd><img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
+<kbd><img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"></kbd>
+<kbd><img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
+
+### Image Processing.
+<kbd><img height="60" src="https://www.pngkey.com/png/detail/95-957460_gimp-logo-transparent-background.png"></kbd>
+<kbd><img height="60" src="https://img.icons8.com/material/452/inkscape.png"></kbd>
+
+### Computer-Aided Design.
+<kbd><img height="60" src="https://banner2.cleanpng.com/20190429/tww/kisspng-autocad-computer-icons-autodesk-logo-adobe-illustr-5cc69fcfdf1481.8664286615565209119137.jpg"></kbd>
+<kbd><img height="60" src="https://kilonewton.ru/uploads/blog/crop/SBlU1ABYvQYfZpddmumT.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
+
 
 **ML-DL Libraries:**
 
