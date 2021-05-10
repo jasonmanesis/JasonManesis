@@ -14,28 +14,23 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 - 🔭 I’m currently working on ...
 
 
-## :tongue: Languages:  
+## Languages and Tools:  
 
 <kbd><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
 <kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
-<kbd><img height="60" src="https://i.stack.imgur.com/Sx2ec.png"></kbd>
+<kbd><img height="60" src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png"></kbd>
+<kbd><img height="60" src="https://blog.education-ecosystem.com/wp-content/uploads/2021/01/1_Lad06lrjlU9UZgSTHUoyfA.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
 
 
 ## Software:  
 ### Geographic Information Systems.
-<img src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" title="Qgis" height="80" />
-<img height="60" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" />
-<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/ >
-<img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"/ >
-<img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"/ >
-<img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"/ >
-
-
-
-
-
-
+<kbd><img height="60" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"></kbd>
+<kbd><img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
+<kbd><img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"></kbd>
+<kbd><img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
 
 
 ### Image Processing.
@@ -79,4 +74,6 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
 </p>
- 
+ ![latex-removebg-preview](https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png)
+![latex-removebg-preview](https://user-images.githubusercontent.com/74200033/117676671-6e711100-b1b6-11eb-9473-e249c41199ab.png)
+
