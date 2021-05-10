@@ -19,10 +19,9 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
 <kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
-<kbd><img height="60" src="https://static.javatpoint.com/tutorial/latex/images/latex-tutorial.png"></kbd>
+<kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
 <kbd><img height="60" src="https://blog.education-ecosystem.com/wp-content/uploads/2021/01/1_Lad06lrjlU9UZgSTHUoyfA.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
-
 
 ## Software:  
 ### Geographic Information Systems.
@@ -31,7 +30,6 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
 <kbd><img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"></kbd>
 <kbd><img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
-
 
 ### Image Processing.
 <kbd><img height="60" src="https://www.pngkey.com/png/detail/95-957460_gimp-logo-transparent-background.png"></kbd>
@@ -56,14 +54,14 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1024px-Sympy_logo.svg.png"></kbd>
 <kbd><img height="60" src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png"></kbd>
 <kbd><img height="60" src="https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></kbd>
-
 <kbd><img height="60" src="https://user-images.githubusercontent.com/315810/92255284-156f1180-eea0-11ea-9d2d-be8262670e8c.png"></kbd>
+
 <kbd><img height="60" src="https://networkx.org/_static/networkx_logo.svg"></kbd>
 <kbd><img height="60" src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_logo.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
-
 <kbd><img height="60" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png"></kbd>
+
 <kbd><img height="60" src="https://www4.lunapic.com/editor/working/161824430054895380?4841502863"></kbd>
 <kbd><img height="60" src="http://blog.scielo.org/en/wp-content/uploads/sites/2/2018/07/osgeo.png"></kbd>
 
@@ -74,6 +72,3 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
   <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
 </p>
- ![latex-removebg-preview](https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png)
-![latex-removebg-preview](https://user-images.githubusercontent.com/74200033/117676671-6e711100-b1b6-11eb-9473-e249c41199ab.png)
-
