@@ -20,8 +20,10 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
 <kbd><img height="60" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
-<kbd><img height="60" src="https://blog.education-ecosystem.com/wp-content/uploads/2021/01/1_Lad06lrjlU9UZgSTHUoyfA.png"></kbd>
+<kbd><img height="60" src="https://colab.research.google.com/img/colab_favicon_256px.png"></kbd>
 <kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
+<kbd><img height="60" src="https://thedatafrog.com/static/blog/images/2019/01/Anaconda_Logo.4b692470b0bc.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
 
 ## Software:  
 ### Geographic Information Systems.
@@ -43,10 +45,10 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 ## :books: Python Libraries:
 ### ML-DL Libraries:
 
-<kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png"></kbd>
+<kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
-<kbd><img height="55" src="https://keras.io/img/logo.png"></kbd>
-<kbd><img height="55" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/scikit-learn-logo.png"></kbd>
+<kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117685027-3b328000-b1be-11eb-8d7d-e7d26f3a156e.png"></kbd>
+<kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></kbd>
 
 ### Other Libraries:
 
