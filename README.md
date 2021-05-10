@@ -4,7 +4,7 @@
 </a>
 
 <a href="mailto:iasonasman@gmail.com">
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/>
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
@@ -18,14 +18,25 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 
 <kbd><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
 <kbd><img height="60" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
+<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
+<kbd><img height="60" src="https://i.stack.imgur.com/Sx2ec.png"></kbd>
+
 
 ## Software:  
 ### Geographic Information Systems.
-<kbd><img height="60" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
-<kbd><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"></kbd>
-<kbd><img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
-<kbd><img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"></kbd>
-<kbd><img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"></kbd>
+<img src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" title="Qgis" height="80" />
+<img height="60" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png" />
+<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"/ >
+<img height="60" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"/ >
+<img height="60" src="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/2bb9cf85-1781-4c86-a092-0a9f5fee4412"/ >
+<img height="60" src="https://es-la.geospatial.trimble.com/sites/geospatial.trimble.com/files/2018-08/eCognition_logo.jpg"/ >
+
+
+
+
+
+
+
 
 ### Image Processing.
 <kbd><img height="60" src="https://www.pngkey.com/png/detail/95-957460_gimp-logo-transparent-background.png"></kbd>
