@@ -12,7 +12,7 @@
 Since 2013 I have been an undergraduate student at School of Rural and Surveying Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
 
 
-## :hammer_and_wrench: Languages and Tools:  
+### :hammer_and_wrench: Languages and Tools:  
 
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
 <kbd><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
@@ -23,7 +23,7 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="50" src="https://thedatafrog.com/static/blog/images/2019/01/Anaconda_Logo.4b692470b0bc.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
 
-## :books: Python Libraries:
+### :books: Python Libraries:
 
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
@@ -43,8 +43,8 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="55" src="https://svn.osgeo.org/osgeo/marketing/logo/svg/OSGeo_compass_with_acronym.svg"></kbd>
 
 
-## Software:  
-<img align="right" height="350" width="500" alt="GIF" src="https://media-exp1.licdn.com/dms/image/C5612AQG26z63TvDh8A/article-cover_image-shrink_600_2000/0/1589415739648?e=1622678400&v=beta&t=y8y3l1Y7f4k0MhOMfABDl09uv5VAKvxjHwkCM5k4nps"/>
+### :computer: Software:  
+<img align="right" height="350" width="500" alt="GIF" src="https://media3.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/>
 
 #### Geographic Information Systems.
 <kbd><img height="50" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
@@ -63,9 +63,8 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
 
 
-## :chart_with_upwards_trend: My GitHub Stats:
-
+### :chart_with_upwards_trend: My GitHub Stats:
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=radical" alt="jasonmanesis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=tokyonight" alt="jasonmanesis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=tokyonight&layout=compact" alt="jasonmanesis" />
 </p>
