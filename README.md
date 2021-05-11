@@ -44,7 +44,7 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 
 
 ### :computer: Software:  
-<img align="right" height="350" width="500" alt="GIF" src="https://media3.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/>
+<img align="right" height="350" width="400" alt="GIF" src="https://media3.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/>
 
 #### Geographic Information Systems.
 <kbd><img height="50" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
