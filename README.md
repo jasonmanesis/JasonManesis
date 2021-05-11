@@ -42,9 +42,9 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680341-bd6c7580-b1b9-11eb-80e8-95e5e11d2cbc.png"></kbd>
 <kbd><img height="55" src="https://svn.osgeo.org/osgeo/marketing/logo/svg/OSGeo_compass_with_acronym.svg"></kbd>
 
+<img align="right" height="350" width="400" alt="GIF" src="https://media3.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/>
 
 ### :computer: Software:  
-<img align="right" height="350" width="400" alt="GIF" src="https://media3.giphy.com/media/ihZH2vOfn02gs9i1U9/source.gif"/>
 
 #### Geographic Information Systems.
 <kbd><img height="50" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
