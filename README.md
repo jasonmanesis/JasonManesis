@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
 
-Since 2013 I have been an undergraduate student at School of Rural and Surveying Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
+Since 2013 I have been an undergraduate student at School of Rural, Surveying and Geoinformatics Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
 
 
 ### :hammer_and_wrench: Languages and Tools:  
@@ -29,6 +29,8 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117685027-3b328000-b1be-11eb-8d7d-e7d26f3a156e.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></kbd>
+<kbd><img height="50" src="https://curiousily.com/static/dff66fd0972574ae284f7df9533d369f/3e3fe/detectron2-logo.png"></kbd>
+
 
 <kbd><img height="55" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sympy_logo.svg/1024px-Sympy_logo.svg.png"></kbd>
@@ -46,18 +48,18 @@ Since 2013 I have been an undergraduate student at School of Rural and Surveying
 
 ### :computer: Software:  
 
-#### Geographic Information Systems.
+#### Geographic Information Systems:
 <kbd><img height="50" src="https://www.qgis.org/uk/_downloads/b738556101ca15d573f1a7e334e33407/qgis-logo.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"></kbd>
 <kbd><img height="50" src="https://grass.osgeo.org/images/logos/grassgis_logo_colorlogo_text_alphabg.png"></kbd>
 <kbd><img height="50" src="Icons/saga_logo.png"></kbd>
 <kbd><img height="50" src="Icons/ecognition_logo.png"></kbd>
 
-#### Image Processing.
+#### Image Processing:
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117692913-2a860800-b1c6-11eb-87b2-8f31aa716b91.png"></kbd>
 <kbd><img height="50" src="http://www.userlogos.org/files/logos/jumpordie/inkscape.png"></kbd>
 
-#### Computer-Aided Design.
+#### Computer-Aided Design:
 <kbd><img height="30" src="https://user-images.githubusercontent.com/74200033/117689118-1e984700-b1c2-11eb-9623-b08d29b13c5b.png"></kbd>
 <kbd><img height="30" src="https://user-images.githubusercontent.com/74200033/117689500-7b93fd00-b1c2-11eb-9a5a-cd7315bd2473.png"></kbd>
 <kbd><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
