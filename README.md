@@ -26,10 +26,11 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 ### :books: Python Libraries:
 
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
+<kbd><img height="50" src="https://github.com/JasonManesis/JasonManesis/blob/main/Icons/detectron2-logo.png?raw=true"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117685027-3b328000-b1be-11eb-8d7d-e7d26f3a156e.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></kbd>
-<kbd><img height="50" src="https://curiousily.com/static/dff66fd0972574ae284f7df9533d369f/3e3fe/detectron2-logo.png"></kbd>
+
 
 
 <kbd><img height="55" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></kbd>
