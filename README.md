@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
 
-Since 2013 I have been an undergraduate student at School of Rural, Surveying and Geoinformatics Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During this year I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
+Since 2013 I have been an undergraduate student at School of Rural, Surveying and Geoinformatics Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During the last two years I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
 
 
 ### :hammer_and_wrench: Languages and Tools:  
