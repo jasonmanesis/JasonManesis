@@ -45,7 +45,7 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680341-bd6c7580-b1b9-11eb-80e8-95e5e11d2cbc.png"></kbd>
 <kbd><img height="55" src="https://svn.osgeo.org/osgeo/marketing/logo/svg/OSGeo_compass_with_acronym.svg"></kbd>
 
-<img align="right" height="350" width="400" alt="GIF" src="https://camo.githubusercontent.com/fa61cfca07320919eb6430a2a06f98d3e68e29c1/68747470733a2f2f692e696d6775722e636f6d2f4f72554a7339562e676966"/>
+<img align="right" height="300" width="500" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
 
 ### :computer: Software:  
 
