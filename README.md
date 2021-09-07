@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/jason-manesis-562a541b4/">
+<a href="https://www.linkedin.com/in/jason-manesis">
   <img align="left" alt="Jason's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
