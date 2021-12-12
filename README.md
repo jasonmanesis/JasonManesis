@@ -20,6 +20,7 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
 <kbd><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
+<kbd><img height="50" src="https://www.logosvgpng.com/wp-content/uploads/2020/11/kaggle-inc-logo-vector.png"></kbd>
 <kbd><img height="50" src="https://thedatafrog.com/static/blog/images/2019/01/Anaconda_Logo.4b692470b0bc.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
 
@@ -64,10 +65,3 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="30" src="https://user-images.githubusercontent.com/74200033/117689118-1e984700-b1c2-11eb-9623-b08d29b13c5b.png"></kbd>
 <kbd><img height="30" src="https://user-images.githubusercontent.com/74200033/117689500-7b93fd00-b1c2-11eb-9a5a-cd7315bd2473.png"></kbd>
 <kbd><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></kbd>
-
-
-### :chart_with_upwards_trend: My GitHub Stats:
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true&theme=tokyonight" alt="jasonmanesis" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonmanesis&show_icons=true&theme=tokyonight&layout=compact" alt="jasonmanesis" />
-</p>
