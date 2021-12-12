@@ -14,15 +14,15 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 
 ### :hammer_and_wrench: Languages and Tools:  
 
-<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
-<kbd><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
-<kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
-<kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
-<kbd><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></kbd>
-<kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
-<kbd><img height="50" src="https://www.logosvgpng.com/wp-content/uploads/2020/11/kaggle-inc-logo-vector.png"></kbd>
-<kbd><img height="50" src="https://thedatafrog.com/static/blog/images/2019/01/Anaconda_Logo.4b692470b0bc.png"></kbd>
-<kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></code>
+<code><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></code>
+<code><img height="50" src="https://www.logosvgpng.com/wp-content/uploads/2020/11/kaggle-inc-logo-vector.png"></code>
+<code><img height="50" src="https://thedatafrog.com/static/blog/images/2019/01/Anaconda_Logo.4b692470b0bc.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></code>
 
 ### :books: Python Libraries:
 
