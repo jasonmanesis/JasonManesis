@@ -19,6 +19,7 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
+<kbd><img height="50" src="Icons/wandb_logo.png"></kbd>
 <kbd><img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></kbd>
 <kbd><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
