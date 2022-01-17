@@ -9,6 +9,35 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
 
+
+
+
+![Metrics](https://metrics.lecoq.io/JasonManesis?template=classic&base.activity=0&base.community=0&base.metadata=0&isocalendar=1&lines=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=member%2C%20follower&config.timezone=Europe%2FAthens&config.display=columns)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Since 2013 I have been an undergraduate student at School of Rural, Surveying and Geoinformatics Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During the last two years I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
 
 
