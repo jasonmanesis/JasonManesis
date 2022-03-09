@@ -40,8 +40,8 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="55" src="Icons/matplotlib_logo.png"></kbd>
 <kbd><img height="55" src="https://cdn.shortpixel.ai/spai/w_788+q_lossy+ret_img+to_webp/https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png"></kbd>
 <kbd><img height="55" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"></kbd>
-<kbd><img height="55" src="Icons/networkx_logo.png"></kbd>
 
+<kbd><img height="55" src="Icons/networkx_logo.png"></kbd>
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680935-48e60680-b1ba-11eb-8afb-283f39bc60a1.png"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
