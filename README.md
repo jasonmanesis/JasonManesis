@@ -9,7 +9,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=jasonmanesis.jasonmanesis)
 
-Since 2013 I have been an undergraduate student at School of Rural, Surveying and Geoinformatics Engineering at National Technical University of Athens. Over the course of my studies I have specialized in the fields of Remote Sensing, Cartography and Photogrammetry. During the last two years I have been working on the implementation and optimization of Deep Learning algorithms for various EO applications. 
+Results-oriented Geoinformation Engineer with solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient deep neural network architectures for fully automated object detection, semantic segmentation and instance segmentation tasks.
 
 
 ### :hammer_and_wrench: Languages and Tools:  
@@ -26,7 +26,7 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
 
 ### :books: Python Libraries:
-<img align="right" height="300" width="450" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
+<img align="right" height="400" width="500" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
 <kbd><img height="50" src="https://github.com/JasonManesis/JasonManesis/blob/main/Icons/detectron2-logo.png?raw=true"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
