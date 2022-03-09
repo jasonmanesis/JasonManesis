@@ -26,13 +26,13 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1200px-Spyder_logo.svg.png"></kbd>
 
 ### :books: Python Libraries:
-
+<img align="right" height="300" width="450" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
 <kbd><img height="50" src="https://github.com/JasonManesis/JasonManesis/blob/main/Icons/detectron2-logo.png?raw=true"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117685027-3b328000-b1be-11eb-8d7d-e7d26f3a156e.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></kbd>
-<img align="right" height="300" width="450" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
+
 
 
 <kbd><img height="55" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png"></kbd>
