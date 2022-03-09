@@ -27,6 +27,7 @@ Results-oriented Geoinformation Engineer with solid academic background and expe
 
 ### :books: Python Libraries:
 <img align="right" height="400" width="500" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
+
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
 <kbd><img height="50" src="https://github.com/JasonManesis/JasonManesis/blob/main/Icons/detectron2-logo.png?raw=true"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg"></kbd>
