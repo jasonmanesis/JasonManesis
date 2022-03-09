@@ -46,4 +46,3 @@ Since 2013 I have been an undergraduate student at School of Rural, Surveying an
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"></kbd>
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680341-bd6c7580-b1b9-11eb-80e8-95e5e11d2cbc.png"></kbd>
-<kbd><img height="55" src="https://svn.osgeo.org/osgeo/marketing/logo/svg/OSGeo_compass_with_acronym.svg"></kbd>
