@@ -23,6 +23,7 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 <kbd><img height="50" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></kbd>
 <kbd><img height="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
+<kbd><img height="50" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png"></kbd>
 
 
 <img align="right" height="350" width="450" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
