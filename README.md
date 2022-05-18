@@ -15,7 +15,6 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 ### :hammer_and_wrench: Languages and Tools:  
 
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></kbd>
-<kbd><img height="50" src="https://numfocus.org/wp-content/uploads/2016/07/ipython-logo-300.png"></kbd>
 <kbd><img height="50" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Emblem.png"></kbd>
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Octicons-markdown.svg"></kbd>
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117676630-644f1280-b1b6-11eb-92a6-376134b434fa.png"></kbd>
