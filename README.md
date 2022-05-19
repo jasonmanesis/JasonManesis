@@ -24,9 +24,6 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 <kbd><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"></kbd>
 <kbd><img height="50" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png"></kbd>
 
-
-<img align="right" height="350" width="450" alt="GIF" src="https://universallygfx.files.wordpress.com/2020/06/bwkoi-1.gif?w=1024" style="vertical-align:bottom"/>
-
 ### :books: Python Libraries:
 
 <kbd><img height="50" src="https://user-images.githubusercontent.com/74200033/117687597-9f564380-b1c0-11eb-95b4-5950ecf45182.png"></kbd>
