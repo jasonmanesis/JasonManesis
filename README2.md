@@ -1,6 +1,5 @@
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Windows](https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white)
-
+![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white?link=http://left&link=http://right)
+![Windows](https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white?link=http://left&link=https://dev.to/envoy_/150-badges-for-github-pnk#artificial-intelligenceright)
 
 ###### Languages and Tools:
 
