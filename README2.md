@@ -1,5 +1,9 @@
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white?link=http://left&link=http://right)
-![Windows](https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white?link=https://dev.to/envoy_/150-badges-for-github-pnk#artificial-intelligencer)
+![Windows](https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white)
+
+<div align="justify">
+Results-oriented Geoinformatics Engineer with a solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient deep neural network architectures for fully automated object detection, semantic segmentation and instance segmentation tasks.
+</div align="justify">  
 
 ###### Languages and Tools:
 
