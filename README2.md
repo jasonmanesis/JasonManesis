@@ -1,5 +1,5 @@
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white?link=http://left&link=http://right)
-![Windows](https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-manesis/)
+[<img src="https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white" />](mailto:iasonasman@gmail.com)
 
 <div align="justify">
 Results-oriented Geoinformatics Engineer with a solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient deep neural network architectures for fully automated object detection, semantic segmentation and instance segmentation tasks.
@@ -31,4 +31,4 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-manesis/)
+
