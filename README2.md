@@ -31,4 +31,4 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 
 
 
-
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-manesis/)
