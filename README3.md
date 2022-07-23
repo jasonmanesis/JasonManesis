@@ -45,3 +45,5 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 <kbd><img height="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/GDALLogoColor.svg/1200px-GDALLogoColor.svg.png"></kbd>
 <kbd><img height="55" src="https://user-images.githubusercontent.com/74200033/117680341-bd6c7580-b1b9-11eb-80e8-95e5e11d2cbc.png"></kbd>
 <kbd><img height="55" src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png"></kbd>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true)
