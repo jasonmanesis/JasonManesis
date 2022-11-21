@@ -47,3 +47,5 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 <kbd><img height="55" src="https://numfocus.org/wp-content/uploads/2018/09/xarray-logo-square.png"></kbd>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonmanesis&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jasonmanesis)](https://github.com/ryo-ma/github-profile-trophy)
+
