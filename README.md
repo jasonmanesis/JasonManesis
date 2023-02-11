@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white" />](mailto:iasonasman@gmail.com)
 
 <div align="justify">
-Results-oriented Geoinformatics Engineer with a solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient deep neural network architectures for fully automated object detection, semantic segmentation and instance segmentation tasks.
+Results-oriented Geoinformatics Engineer with a solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient operational pipelines for object detection, semantic segmentation and instance segmentation tasks. 
 </div align="justify">  
 
 ###### Languages and Tools:
