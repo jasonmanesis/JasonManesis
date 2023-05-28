@@ -29,15 +29,6 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![opencv](https://img.shields.io/badge/-OPENcv-green?style=for-the-badge&logo=opencv&logoColor=white)
 
-###### Github Stats:
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
-<p align="center">
-
-<a href="https://github.com/jasonmanesis?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jasonmanesis&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="Jason's github-readme-stats"/></a>
-<a href="https://github.com/jasonmanesis?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jasonmanesis&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-
-</p>
 
 
