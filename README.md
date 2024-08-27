@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white" />](mailto:iasonasman@gmail.com)
 
 <div align="justify">
-Results-oriented Geoinformatics Engineer with a solid academic background and experience in applied Deep Learning techniques for various earth observation applications. Proven ability to implement efficient operational pipelines for object detection, semantic segmentation and instance segmentation tasks. 
+I am a Geoinformatics Engineer specializing in applied deep learning techniques for earth observation applications. My expertise lies primarily on developing efficient operational pipelines for various earth observation tasks, and I’m involved in both academic and research roles, particularly in remote sensing and computer vision.
 </div align="justify">  
 
 ###### Languages and Tools:
@@ -18,17 +18,13 @@ Results-oriented Geoinformatics Engineer with a solid academic background and ex
 ![googlecolab](https://img.shields.io/badge/google%20colab-FCC624.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
+
 
 ###### ML/DL Frameworks:
-
 ![Detectron](https://img.shields.io/badge/Detectron-purple.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAGYktHRAD/AP8A/6C9p5MAAAAHdElNRQfmBgwKHiu8NVtuAAABhElEQVQ4T52Su4rCQBSG/4SoeEFBRXDBV5Bt7H0CCxtLQdBHSGsgz2Bj7QP4AHaKFsoW20SwEBY2iDcUQdEos56TxMuu2+SDmTNz5vzMf5iRNGgCHpGd6Il/xcXPIqrfVZSMkpP5y812zawhnU6j0+kgn8/jeDxiuVwikUggGAxiMBggl8thPB6j/d5mMd9c+CggHA7DMAzIsozpdMr7aDSKSCSCyWSCUCiE2WzG55Wvyl2czWYxn8+5MJVKIR6PYzQaYb1eYzgc8u1CCHbj9/uRTCZZrNBEyVarxQmXcrmMTCbDokaj4WRtVFW1F9TztTdRr9epdx4E7c/n88s81ZOObZOtRyRJ4qjrOkcXN+/Ws5hsv0LTNGf1zG63sxd0/VXMlgiyRVwul6fo5glqh5+YpsPhIFarlXNk0+12b+ORxWIh9vv9vWfTNBEIBNhJr9fj+Jt+v8+R6ujzELcfRl+RDjabDb+zoijw+Xw4nU6wLAvb7RaxWIz3zbfms9gLbNsbwA8BuP/Ju7k26wAAAABJRU5ErkJggg==)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-blue.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![opencv](https://img.shields.io/badge/-OPENcv-green?style=for-the-badge&logo=opencv&logoColor=white)
-
-
-
-
