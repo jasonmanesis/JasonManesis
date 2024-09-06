@@ -19,11 +19,14 @@ I am a Geoinformatics Engineer specializing in applied deep learning techniques 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)](#)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 
 ###### ML/DL Frameworks:
 ![Detectron](https://img.shields.io/badge/Detectron-purple.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAGYktHRAD/AP8A/6C9p5MAAAAHdElNRQfmBgwKHiu8NVtuAAABhElEQVQ4T52Su4rCQBSG/4SoeEFBRXDBV5Bt7H0CCxtLQdBHSGsgz2Bj7QP4AHaKFsoW20SwEBY2iDcUQdEos56TxMuu2+SDmTNz5vzMf5iRNGgCHpGd6Il/xcXPIqrfVZSMkpP5y812zawhnU6j0+kgn8/jeDxiuVwikUggGAxiMBggl8thPB6j/d5mMd9c+CggHA7DMAzIsozpdMr7aDSKSCSCyWSCUCiE2WzG55Wvyl2czWYxn8+5MJVKIR6PYzQaYb1eYzgc8u1CCHbj9/uRTCZZrNBEyVarxQmXcrmMTCbDokaj4WRtVFW1F9TztTdRr9epdx4E7c/n88s81ZOObZOtRyRJ4qjrOkcXN+/Ws5hsv0LTNGf1zG63sxd0/VXMlgiyRVwul6fo5glqh5+YpsPhIFarlXNk0+12b+ORxWIh9vv9vWfTNBEIBNhJr9fj+Jt+v8+R6ujzELcfRl+RDjabDb+zoijw+Xw4nU6wLAvb7RaxWIz3zbfms9gLbNsbwA8BuP/Ju7k26wAAAABJRU5ErkJggg==)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![PyTorchL](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-blue.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
