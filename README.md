@@ -1,5 +1,8 @@
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jason-manesis/)
-[<img src="https://img.shields.io/badge/Gmail-%23FA0F00?style=flat-square&logo=gmail&logoColor=white" />](mailto:iasonasman@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-manesis/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white)](mailto:iasonasman@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/jason_manesis_81136)
+
+
 
 <div align="justify">
 I am a Geoinformatics Engineer specializing in applied deep learning techniques for earth observation applications. My expertise lies primarily on developing efficient operational pipelines for various earth observation tasks, and I’m involved in both academic and research roles, particularly in remote sensing and computer vision.
