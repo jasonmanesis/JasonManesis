@@ -25,6 +25,14 @@ I am a Geoinformatics Engineer specializing in applied deep learning techniques 
 <img src="https://cdn.simpleicons.org/markdown/000000" width="40" height="40" alt="Markdown"/> &nbsp;
 <img src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" width="40" height="40" alt="Weights & Biases"/> &nbsp;
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/text%20editors/vscode.svg" width="40" height="40" alt="Weights & Biases"/> &nbsp;
+<img src="https://cdn.simpleicons.org/qgis/589632" width="40" height="40" alt="Markdown"/> &nbsp;
+<img src="https://cdn.simpleicons.org/arcgis/2C7AC3" width="40" height="40" alt="Markdown"/> &nbsp;
+<img src="https://cdn.simpleicons.org/autocad/E51050" width="40" height="40" alt="Markdown"/> &nbsp;
+<img src="https://cdn.simpleicons.org/gimp/8C8073" width="40" height="40" alt="Markdown"/> &nbsp;
+<img src="https://cdn.simpleicons.org/inkscape/000000" width="40" height="40" alt="Markdown"/> &nbsp;
+
+
+
 
 
 #### 🤖 ML / DL Frameworks 
