@@ -14,9 +14,10 @@ I am a Geoinformatics Engineer specializing in applied deep learning techniques 
 <img src="https://cdn.simpleicons.org/latex/008080/white" width="40" height="40" alt="LaTeX"/> &nbsp;
 <img src="https://cdn.simpleicons.org/github/181717/white" width="40" height="40" alt="GitHub"/> &nbsp;
 <img src="https://cdn.simpleicons.org/git/F05032/white" width="40" height="40" alt="Git"/> &nbsp;
+<img src="https://cdn.simpleicons.org/githubcopilot/000000/white" width="40" height="40" alt="Git"/> &nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED/white" width="40" height="40" alt="Docker"/> &nbsp;
 <img src="https://cdn.simpleicons.org/anaconda/44A833/white" width="40" height="40" alt="Anaconda"/> &nbsp;
-<img src="https://avatars.githubusercontent.com/u/66118895?s=280&v=4" width="50" height="50" alt="Mamba"/>
+<img src="https://cdn.vectorstock.com/i/500p/67/56/snake-symbol-vector-53946756.jpg" width="45" height="45" alt="Mamba"/>
 <img src="https://cdn.simpleicons.org/uv/DE5FE9/white" width="35" height="35" alt="Anaconda"/> &nbsp;
 <img src="https://cdn.simpleicons.org/pypi/3775A9/white" width="40" height="40" alt="Anaconda"/> &nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626/white" width="40" height="40" alt="Jupyter"/> &nbsp;
